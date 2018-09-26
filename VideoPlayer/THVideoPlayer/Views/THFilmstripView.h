@@ -1,0 +1,3 @@
+@interface THFilmstripView : UIView
+
+@end
